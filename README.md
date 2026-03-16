@@ -1,1 +1,1 @@
-# Data-Technitial-Bootcamp
+# Data-Technician-Bootcamp
