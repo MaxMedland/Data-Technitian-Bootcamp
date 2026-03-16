@@ -1,6 +1,6 @@
 <img width="272" height="96" alt="image" src="https://github.com/user-attachments/assets/e0066764-7472-4155-9cb7-b07b29ff9e9e" />
 
-# Skills Bootcamp in Data Technician | Portfolio
+# Data Technician Skills Bootcamp | Portfolio
 
 This repository showcases the technical projects and professional development completed during the **Leep Talent Skills Bootcamp in Data Technician**. This 7 to 12-week, government-funded intensive program is designed to master the full data lifecycle, from initial sourcing to professional stakeholder presentation.
 
