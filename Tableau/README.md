@@ -6,7 +6,7 @@ This repository showcases my Tableau project completed during Week 2 of the **Da
 
 ## 🚀 Project Overview
 
-Using Tableau Public, I created a series of visualisations and dashboards based on the **Gapminder Health** dataset and an extended **Spotify Features** dataset. The goal was to uncover trends, compare metrics across countries and continents, and communicate insights through intuitive, interactive visuals.
+Using [Tableau Public](https://public.tableau.com/app/discover), I created a series of visualisations and dashboards based on the **Gapminder Health** dataset and an extended **Spotify Features** dataset. The goal was to uncover trends, compare metrics across countries and continents, and communicate insights through intuitive, interactive visuals.
 
 The project emphasised:
 
@@ -56,6 +56,18 @@ The project emphasised:
 
 ## 🌍 Project Highlights
 
+### **Great Britan Employment Dashboard**
+Visualised:
+
+- Geospacial Growth patterns
+- Growth Rate Benchmarking
+- Sector performance differences
+  - both positive and negative
+
+**[Dashboard link](https://public.tableau.com/views/GB_Empolyment_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+---
+
 ### **Global Health Dashboard**
 Visualised:
 
@@ -64,8 +76,7 @@ Visualised:
 - Gender‑based population distribution  
 - BMI vs Life Expectancy relationships  
 
-**Dashboard link:**  
-https://public.tableau.com/app/profile/max.medland/viz/GlobalHealthDashboard_17707296955630/GlobalHealthInsights
+**[Dashboard link](https://public.tableau.com/app/profile/max.medland/viz/GlobalHealthDashboard_17707296955630/GlobalHealthInsights)**
 
 ---
 
@@ -77,8 +88,7 @@ Explored:
 - Key distribution vs popularity  
 - Energy, danceability, and valence patterns  
 
-**Dashboard link:**  
-https://public.tableau.com/app/profile/max.medland/viz/Spotify_stuff/SpotifyTrends?publish=yes
+**[Dashboard link](https://public.tableau.com/app/profile/max.medland/viz/Spotify_stuff/SpotifyTrends?publish=yes)**
 
 ---
 
@@ -93,7 +103,7 @@ https://public.tableau.com/app/profile/max.medland/viz/Spotify_stuff/SpotifyTren
 
 ## 🛠 Tools & Technologies
 
-- **Tableau Public** (https://public.tableau.com/app/profile/max.medland/vizzes)
+- **[Tableau Public](https://public.tableau.com/app/profile/max.medland/vizzes)**
 - Interactive dashboards  
 - Filters, slicers, and parameters  
 - Calculated fields & table calculations  
