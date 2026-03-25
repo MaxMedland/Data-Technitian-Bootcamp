@@ -13,7 +13,7 @@ This project provides an end-to-end data science pipeline—from raw data auditi
 | **Data Auditing** | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | **Visual Analytics** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black) |
 | **Development** | ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Libraries** | `Pandas`, `NumPy`, `Scikit-Learn`, `Matplotlib`, `Seaborn` |
+| **Libraries** |![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=flat&logo=python&logoColor=white)|
 
 ---
 
@@ -56,11 +56,12 @@ This project provides an end-to-end data science pipeline—from raw data auditi
 
 ## 📂 Repository Structure
 ```text
-├── blood_cell_anomaly_data.csv   # Raw dataset (5,880 records)
-├── Analysis_Modeling.ipynb       # Google Colab Python script (ML Pipeline)
-├── demographic_summaries.twb     # Tableau Workbook (Cohort Analysis)
-├── classification_analysis.pbix  # Power BI Report (AI vs. Human Confidence)
-└── README.md                     # Project documentation
+├── Analysis_Modeling.ipynb            # Google Colab Python script (ML Pipeline)
+├── blood_cell_anomaly_detection.csv   # Raw dataset (5,880 records)
+├── blood_cell_anomaly_sheet.xlsx      # Excel Worksheet (Preliminary analysis)
+├── classification_analysis.pbix       # Power BI Report (AI vs. Human Confidence)
+├── demographic_summaries.twb          # Tableau Workbook (Cohort Analysis)
+└── README.md                          # Project documentation
 ```
 
 ---
