@@ -56,12 +56,12 @@ This project provides an end-to-end data science pipeline—from raw data auditi
 
 ## 📂 Repository Structure
 ```text
-├── Analysis_Modeling.ipynb            # Google Colab Python script (ML Pipeline)
+├── README.md                          # Project documentation
+├── blood_anomaly_project.ipynb        # Google Colab Python script (ML Pipeline)
 ├── blood_cell_anomaly_detection.csv   # Raw dataset (5,880 records)
 ├── blood_cell_anomaly_sheet.xlsx      # Excel Worksheet (Preliminary analysis)
 ├── classification_analysis.pbix       # Power BI Report (AI vs. Human Confidence)
-├── demographic_summaries.twb          # Tableau Workbook (Cohort Analysis)
-└── README.md                          # Project documentation
+└── demographic_summaries.twb          # Tableau Workbook (Cohort Analysis)
 ```
 
 ---
